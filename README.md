@@ -80,3 +80,6 @@ Type-Cで接続できるため非常にお手軽です。
    一文字送って電流不足でリセットされるような挙動を繰り返している様にも思えます。
 
    良い状態ではありません。使用後は接続を切った方が良いと思います。
+
+
+<meta name="google-site-verification" content="6oX8ek_6AuKv8MAZi7VcgUb88NGj_nkkWuNGp6OH1JA" />
