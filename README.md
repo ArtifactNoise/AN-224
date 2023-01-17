@@ -11,7 +11,8 @@ Type-Cで接続できるため非常にお手軽です。
 電圧レベルはTTL 3.3Vです。
 
 
-※ドライバーが別途必要になります。　最新のドライバーは公式サイト　https://www.wch.cn/products/CH340.html?from=list　より
+※ドライバーが別途必要になります。　最新のドライバーは公式サイト　https://www.wch.cn/products/CH340.html?from=list
+より
 
 
 # 仕様
