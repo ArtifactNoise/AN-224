@@ -43,6 +43,11 @@ Type-Cで接続できるため非常にお手軽です。
 
    ![PDF資料](./PDF/CH340E_3V3.pdf)
 
+# 販売サイト
+
+- Amazon JP
+
+   https://amzn.asia/d/dPPRC6k
 
 # トピック
 
